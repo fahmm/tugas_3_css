@@ -1,0 +1,27 @@
+p{
+	background-color: gray;
+	border-style: solid;
+	border-width: thin;
+}
+
+#p-pertama{
+	background-color: orange;
+}
+
+#p-dua{
+	background-color: blue;
+	color: white;
+}
+
+#p-tiga{
+	background-color: white;
+	border-color: gray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+#p-empat{
+	font-weight: bold;
+	font-family: "times new roman";
+
+}
